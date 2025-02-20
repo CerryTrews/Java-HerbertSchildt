@@ -29,7 +29,6 @@ public class BannerJFX extends JPanel implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        // Rotate the message
         char ch = msg.charAt(0);
         msg = msg.substring(1) + ch;
         repaint();
