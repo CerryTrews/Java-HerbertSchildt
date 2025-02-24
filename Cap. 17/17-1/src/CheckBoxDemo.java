@@ -48,6 +48,11 @@ public class CheckBoxDemo extends Application {
         }
 
         selected.setText("Computers selected: " + computers);
+
+        if(cbSmartphone.isSelected() && cbTablet.isSelected() && cbNotebook.isSelected() && cbDesktop.isSelected()) {
+            selected.setText("All computers selected.");
+        }
+
     }
 
     public void start(Stage myStage) {
