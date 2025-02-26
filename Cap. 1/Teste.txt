@@ -1,0 +1,20 @@
+Teste do Capítulo 1
+
+    1. O que é bytecode e porque ele é importante para o uso de Java em programação na Internet?
+    2. Quais os três princípios básicos da programação orientada a objetos?
+    3. Onde os programas Java começam a ser executados?
+    4. O que é uma variável?
+    5. Qual dos nome de variável a seguir é inválido?
+        A. count
+        B. $count
+        C. count27
+        D. 67count
+    6. Como se cria um comentário de linha única? E um comentário de várias linhas?
+    7. Mostre a forma geral da instrução if. Mostre também a do laço for.
+    8. Como se cria um bloco de código?
+    9. A gravidade da Lua é cerca de 17% a da Terra. Crie um programa que calcule seu peso na Lua.
+    10. Adapte o código da seção 1-2 para que ele exiba uma tabela de conversões de polegadas para metros.
+        Exiba 12 pés de conversões, polegada a polegada. Gere uma linha em branco a cada 12 polegadas. (Um
+        metro é igual à aproximadamente 39,97 polegadas.)
+    11. Se você cometer um engano na digitação ao inserir seu programa, isso vai resultar em que tipo de erro?
+    12. É importante o local onde inserimos uma instrução em uma linha?

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Cap. 1/1-1/1-1.iml" filepath="$PROJECT_DIR$/Cap. 1/1-1/1-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cap. 1/1-2/1-2.iml" filepath="$PROJECT_DIR$/Cap. 1/1-2/1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap. 1/Tente Isto/1-1/1-1.iml" filepath="$PROJECT_DIR$/Cap. 1/Tente Isto/1-1/1-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap. 1/Tente Isto/1-2/1-2.iml" filepath="$PROJECT_DIR$/Cap. 1/Tente Isto/1-2/1-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 10/10-1/10-1.iml" filepath="$PROJECT_DIR$/Cap. 10/10-1/10-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 10/10-2/10-2.iml" filepath="$PROJECT_DIR$/Cap. 10/10-2/10-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 11/11-1/11-1.iml" filepath="$PROJECT_DIR$/Cap. 11/11-1/11-1.iml" />
@@ -48,6 +48,8 @@
       <module fileurl="file://$PROJECT_DIR$/Cap. 8/Cap. 8.iml" filepath="$PROJECT_DIR$/Cap. 8/Cap. 8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 9/Cap. 9.iml" filepath="$PROJECT_DIR$/Cap. 9/Cap. 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Livro-Java-Herbert Schildt.iml" filepath="$PROJECT_DIR$/Livro-Java-Herbert Schildt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap. 1/Tente Isto/Tente Isto.iml" filepath="$PROJECT_DIR$/Cap. 1/Tente Isto/Tente Isto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap. 1/Teórico/Teórico.iml" filepath="$PROJECT_DIR$/Cap. 1/Teórico/Teórico.iml" />
     </modules>
   </component>
 </project>
