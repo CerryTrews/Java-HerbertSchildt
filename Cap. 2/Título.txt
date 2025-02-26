@@ -1,0 +1,15 @@
+- Capítulo 2 -
+Introdução a tipos de dados e operadores
+
+Pricipais habilidades e conceitos
+    - Conhecer tipos primitivos de Java
+    - Usar literais
+    - Inicializar
+    - Saber as regras de escopo de variáveis dentro de um método
+    - Usar os operadores aritméticos
+    - Usar operadores relacionais e lógicos
+    - Entender os operadores de atribuição
+    - Usar atribuições abreviadas
+    - Entender a conversão de tipos em atribuições
+    - Converter tipos incompatíveis
+    - Entender a conversão de tipos em expressões

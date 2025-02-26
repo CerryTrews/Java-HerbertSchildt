@@ -14,8 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/Cap. 15/15-1/15-1.iml" filepath="$PROJECT_DIR$/Cap. 15/15-1/15-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 16/16-1/16-1.iml" filepath="$PROJECT_DIR$/Cap. 16/16-1/16-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 17/17-1/17-1.iml" filepath="$PROJECT_DIR$/Cap. 17/17-1/17-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cap. 2/2-1/2-1.iml" filepath="$PROJECT_DIR$/Cap. 2/2-1/2-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cap. 2/2-2/2-2.iml" filepath="$PROJECT_DIR$/Cap. 2/2-2/2-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap. 2/Tente Isto/2-1/2-1.iml" filepath="$PROJECT_DIR$/Cap. 2/Tente Isto/2-1/2-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap. 2/Tente Isto/2-2/2-2.iml" filepath="$PROJECT_DIR$/Cap. 2/Tente Isto/2-2/2-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 3/3-1/3-1.iml" filepath="$PROJECT_DIR$/Cap. 3/3-1/3-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 3/3-2/3-2.iml" filepath="$PROJECT_DIR$/Cap. 3/3-2/3-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 3/3-3/3-3.iml" filepath="$PROJECT_DIR$/Cap. 3/3-3/3-3.iml" />
@@ -49,7 +49,6 @@
       <module fileurl="file://$PROJECT_DIR$/Cap. 9/Cap. 9.iml" filepath="$PROJECT_DIR$/Cap. 9/Cap. 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Livro-Java-Herbert Schildt.iml" filepath="$PROJECT_DIR$/Livro-Java-Herbert Schildt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap. 1/Tente Isto/Tente Isto.iml" filepath="$PROJECT_DIR$/Cap. 1/Tente Isto/Tente Isto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cap. 1/Teórico/Teórico.iml" filepath="$PROJECT_DIR$/Cap. 1/Teórico/Teórico.iml" />
     </modules>
   </component>
 </project>
