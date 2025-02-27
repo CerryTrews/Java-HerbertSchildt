@@ -1,0 +1,26 @@
+Teste do Capítulo 2
+
+    1. Por que Java especifica rigorosamente o intervalo e o comportamento de seus tipos primitivos?
+    2. Qual é o tipo de caractere usdo em Java e em que ele é diferente do tipo de caractere usando
+       por outra linguagens de programação?
+    3. Um valor boolean pode ter o valor que você quiser já que qualquer valor diferente de zero é
+       verdadeiro. Verdadeiro ou Falso?
+    4. Dada esta saída;
+           One
+           Two
+           Three
+       usando um único string, mostre a intrução println() que a produziu.
+    5. O que está errado neste fregmento?
+           for(i = 0; i < 10; i++) {
+               int sum;
+
+               sum = sum + 1;
+           }
+           System.out.println("Sum is: " + sum);
+    6. Explique a diferença entre as formas prefixada e posfixada do operador de incremento.
+    7. Mostre como um AND de curto-circuito pode ser usado para impedir um erro de divisão por zero.
+    8. Em uma expressão, a que tipo são promovidos byte e short?
+    9. Em geral, quando uma coerção é necessária?
+    10. Escreva um programa que encontre todos os cúmeros primos entre 2 e 100.
+    11. O uso de parênteses adicionais afeta o desempenho do programa?
+    12. Um bloco define um escopo?
