@@ -1,0 +1,14 @@
+- Capítulo 3 -
+Instruções de controle de programa
+
+Principais habilidades e conceitos
+    - Inserir caracteres a partir do teclado
+    - Saber a forma completa da instrução if
+    - Usar a instrução switch
+    - Saber a forma completa do laço for
+    - Usar o laço while
+    - Usar o laço do-while
+    - Usar break para sair de um laço
+    - Usar break como forma de goto
+    - Aplicar continue
+    - Aninhar laços
